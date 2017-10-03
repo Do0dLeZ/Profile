@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question id="0" value="What language do you prefer?">
+        <answer id="0">Java</answer>
+        <answer id="1">C#</answer>
+        <answer id="2">C++</answer>
+    </question>
+    <question id="1" value="What you will choose Front-End or Back-End?">
+        <answer id="0">Back-End</answer>
+        <answer id="1">Front-End</answer>
+        <answer id="2">Both</answer>
+    </question>
+    <question id="2" value="WHo is the best?">
+        <answer id="0">Terminator</answer>
+        <answer id="1">Rambo</answer>
+        <answer id="2">Robo-Cop</answer>
+    </question>
+</questions>

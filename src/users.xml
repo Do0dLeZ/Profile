@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user login="admin" password="admin">
+        <age>27</age>
+        <name>Eugene</name>
+        <passedQ>false</passedQ>
+        <surname>Kolomiets</surname>
+    </user>
+
+</users>
